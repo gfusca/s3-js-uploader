@@ -1,4 +1,4 @@
-# S3 binary uploader
+# AWS S3 binary uploader
 
 1. Install dependencies
 ```
