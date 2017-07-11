@@ -1,0 +1,12 @@
+{
+  "aws": {
+    "endpoint": "",
+    "accessKeyId": "",
+    "secretAccessKey": "",
+    "region": "",
+    "s3": {
+      "bucket": "",
+      "maxRetries": 2
+    }
+  }
+}
